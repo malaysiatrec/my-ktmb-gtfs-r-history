@@ -20,4 +20,4 @@ We experienced a [major service outage](https://webstatus.mtrec.name.my/incident
 
 ## Contact
 
-For inquiries, please contact us at [malaysiatrec@gmail.com](mailto:malaysiatrec@gmail.com).
+For inquiries, please contact us at [support@mtrec.name.my](mailto:support@mtrec.name.my).
